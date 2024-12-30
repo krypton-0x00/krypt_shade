@@ -1,6 +1,6 @@
-# ColorLib
+# Krypt Shade
 
-ColorLib is a Python library that provides utilities for color manipulation, including:
+KryptShade is a Python library that provides utilities for color manipulation, including:
 
 - Conversion between HEX and RGB
 - Brightness adjustment
